@@ -21,7 +21,7 @@ A path planner is designed to create a smooth, safe path for the self-driving ca
 
 The vehicle successfully navigates the highway setting without incident. The vehicle was tested for X minutes, shown below. 
 
-<img src="output/image1.jpg" width="350" height="250" />
+<img src="output/image1.JPG" width="350" height="250" />
 
 Some criteria that we looked for include:
 
